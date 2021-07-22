@@ -1,0 +1,17 @@
+/* Google Fonts CDN LINK */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500;600&display=swap');
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+.eshop-bg-info{
+    background-color: #fceae8;
+}
+.buy-now-btn {
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+} 
