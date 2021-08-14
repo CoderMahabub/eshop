@@ -1,0 +1,1 @@
+document.getElementsByTagName('h2').addEventListener('')
